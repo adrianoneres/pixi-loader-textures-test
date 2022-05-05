@@ -12,8 +12,12 @@ This example uses two different URLs, one from the Assets Library and the other 
 
 ## Custom object without options:
 
+As we can see in the image below, there is no `texture` property in here.
+
 ![fail](./img/fail.png)
 
 ## Custom object with type options:
+
+In this case we can see the `texture` property as expected.
 
 ![success](./img/success.png)
